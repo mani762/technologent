@@ -1,0 +1,4 @@
+- name: Add hosts name
+  debug:
+    msg:
+      - 'welcome you all:'
